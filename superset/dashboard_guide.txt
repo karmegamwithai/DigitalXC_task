@@ -1,0 +1,23 @@
+
+Dashboard Components
+
+1. Ticket Volume Trends
+   - Line Chart
+   - Count(ticket_id)
+
+2. Resolution Time
+   - Bar Chart
+   - AVG(resolution_time_hrs)
+
+3. Closure Rate
+   - Pie Chart
+   - Group By assigned_group
+
+4. Ticket Backlog
+   - Table
+   - Filter status='Open'
+
+Filters:
+- Week
+- Category
+- Priority
